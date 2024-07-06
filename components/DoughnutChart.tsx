@@ -9,8 +9,8 @@ export default function DoughnutChart({accounts}:DoughnutChartProps) {
         datasets:[
 {
 label:'Banks',
-data:[1234,1231,3111],
-backgroundColor:['#023','#000','#2f91fa']
+data:[1234,2355,3111],
+backgroundColor:['#2f51ff','#000','#2f91fa']
 
 }
         ],
